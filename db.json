@@ -91,5 +91,15 @@
         "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
         ]
         }
-        ]
+        ],
+  "details" [
+           {
+             "id": 1,
+             "task": "i am eating"
+             },
+             {
+             "id": 2,
+             "task": "i am dancing"
+             }
+          ]
 }
